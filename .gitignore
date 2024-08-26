@@ -1,0 +1,35 @@
+# Ignorar archivos temporales
+*.tmp
+
+# Ignorar directorio de node_modules
+node_modules/
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar configuraciones locales de VS Code
+.vscode/
+
+# Dependencias de Node
+node_modules/
+
+# Archivos de log
+*.log
+
+# Directorios de producción
+dist/
+build/
+
+# Archivos de entorno
+.env
+
+# Configuraciones de IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Otros archivos
+.DS_Store
